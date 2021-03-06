@@ -1,0 +1,59 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "NAME": "FABL", "NAME1": "Bram Fischer International Airport - ACSA" }, "geometry": { "type": "Point", "coordinates": [ 26.303964, -29.093789 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FACT", "NAME1": "Cape Town International Airport - ACSA" }, "geometry": { "type": "Point", "coordinates": [ 18.604292, -33.971369 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAEL", "NAME1": "East Londen - ACSA" }, "geometry": { "type": "Point", "coordinates": [ 27.821350, -33.035000 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAGG", "NAME1": "George - ACSA" }, "geometry": { "type": "Point", "coordinates": [ 22.374281, -34.006703 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAKM", "NAME1": "Kimberly - ACSA" }, "geometry": { "type": "Point", "coordinates": [ 24.764033, -28.804783 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FALE", "NAME1": "King Shaka International Airport - ACSA" }, "geometry": { "type": "Point", "coordinates": [ 31.119314, -29.611772 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAOR", "NAME1": "O R Tambo International Airport - ACSA" }, "geometry": { "type": "Point", "coordinates": [ 28.242317, -26.133694 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAPE", "NAME1": "Port Elizabeth International Airport - ACSA" }, "geometry": { "type": "Point", "coordinates": [ 25.610278, -33.990014 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAUP", "NAME1": "Upington International Airport - ACSA" }, "geometry": { "type": "Point", "coordinates": [ 21.259661, -28.401022 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FABE", "NAME1": "Bhisho" }, "geometry": { "type": "Point", "coordinates": [ 27.285000, -32.895000 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAGM", "NAME1": "Rand" }, "geometry": { "type": "Point", "coordinates": [ 28.151356, -26.241978 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAKN", "NAME1": "Kruger Mpumalanga International Airport" }, "geometry": { "type": "Point", "coordinates": [ 31.099278, -25.391584 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FALA", "NAME1": "Lanseria International Airport" }, "geometry": { "type": "Point", "coordinates": [ 27.925575, -25.939692 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAMM", "NAME1": "George Dick Montshioa" }, "geometry": { "type": "Point", "coordinates": [ 25.544469, -25.807447 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAPM", "NAME1": "Pietermaritzburg" }, "geometry": { "type": "Point", "coordinates": [ 30.397772, -29.646789 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAPN", "NAME1": "Pilanesberg International Airport" }, "geometry": { "type": "Point", "coordinates": [ 27.171633, -25.335483 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAPP", "NAME1": "Polokwane International Airport" }, "geometry": { "type": "Point", "coordinates": [ 29.456489, -23.849647 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAUT", "NAME1": "Mthatha" }, "geometry": { "type": "Point", "coordinates": [ 28.674361, -31.547908 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAVG", "NAME1": "Virginia" }, "geometry": { "type": "Point", "coordinates": [ 31.060278, -29.770833 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAWB", "NAME1": "Wonderboom" }, "geometry": { "type": "Point", "coordinates": [ 28.221336, -25.655308 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAHS", "NAME1": "Hoedspruit" }, "geometry": { "type": "Point", "coordinates": [ 31.050400, -24.354621 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FALM", "NAME1": "Makhado" }, "geometry": { "type": "Point", "coordinates": [ 29.701503, -23.159453 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FALW", "NAME1": "Langebaanweg" }, "geometry": { "type": "Point", "coordinates": [ 18.165261, -32.968811 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAOB", "NAME1": "Overberg" }, "geometry": { "type": "Point", "coordinates": [ 20.249122, -34.558117 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FASK", "NAME1": "Swartkop (MIL)" }, "geometry": { "type": "Point", "coordinates": [ 28.166971, -25.808940 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAWK", "NAME1": "Waterkloof" }, "geometry": { "type": "Point", "coordinates": [ 28.220892, -25.827690 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAYP", "NAME1": "Ysterplaat" }, "geometry": { "type": "Point", "coordinates": [ 18.497489, -33.900989 ] } }
+
+]
+}

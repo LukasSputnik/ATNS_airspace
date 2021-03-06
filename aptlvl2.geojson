@@ -1,0 +1,221 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "NAME": "FAAG", "NAME1": "Aggeneys" }, "geometry": { "type": "Point", "coordinates": [ 18.817500, -29.279167 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAAN", "NAME1": "Aliwal North" }, "geometry": { "type": "Point", "coordinates": [ 26.733333, -30.683333 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAAP", "NAME1": "Aviators Paradise" }, "geometry": { "type": "Point", "coordinates": [ 27.782500, -25.693889 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FABA", "NAME1": "Microland Flight Park" }, "geometry": { "type": "Point", "coordinates": [ 28.387747, -25.975083 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FABB", "NAME1": "Brakpan Benoni" }, "geometry": { "type": "Point", "coordinates": [ 28.305833, -26.238056 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FABD", "NAME1": "Burgersdorp" }, "geometry": { "type": "Point", "coordinates": [ 26.300000, -30.983333 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FABS", "NAME1": "Brits" }, "geometry": { "type": "Point", "coordinates": [ 27.775833, -25.532500 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FACN", "NAME1": "Carnavon" }, "geometry": { "type": "Point", "coordinates": [ 22.133333, -30.991667 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FACO", "NAME1": "Alkantpan" }, "geometry": { "type": "Point", "coordinates": [ 22.316583, -29.906486 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FACV", "NAME1": "Calvinia" }, "geometry": { "type": "Point", "coordinates": [ 19.725833, -31.500278 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FADA", "NAME1": "De Aar" }, "geometry": { "type": "Point", "coordinates": [ 24.024203, -30.691531 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FADB", "NAME1": "Dwaalboom" }, "geometry": { "type": "Point", "coordinates": [ 26.829722, -24.807222 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FADL", "NAME1": "Delareyville" }, "geometry": { "type": "Point", "coordinates": [ 25.473778, -26.681491 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAEC", "NAME1": "Umtshezi Municipality" }, "geometry": { "type": "Point", "coordinates": [ 29.910642, -29.047342 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAEM", "NAME1": "Empangeni" }, "geometry": { "type": "Point", "coordinates": [ 31.892656, -28.718544 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAEO", "NAME1": "Ermelo" }, "geometry": { "type": "Point", "coordinates": [ 29.983333, -26.500000 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAFB", "NAME1": "Ficksburg Sentraoes" }, "geometry": { "type": "Point", "coordinates": [ 27.908594, -28.825000 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAFK", "NAME1": "Fisantekraal" }, "geometry": { "type": "Point", "coordinates": [ 18.740000, -33.771389 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAFW", "NAME1": "Freeway" }, "geometry": { "type": "Point", "coordinates": [ 28.290000, -25.477222 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAGL", "NAME1": "Groblersdal" }, "geometry": { "type": "Point", "coordinates": [ 29.403292, -25.186767 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAGR", "NAME1": "Graaff-Reinet" }, "geometry": { "type": "Point", "coordinates": [ 24.541156, -32.194825 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAGT", "NAME1": "Grahamstown" }, "geometry": { "type": "Point", "coordinates": [ 26.500000, -33.283333 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAHC", "NAME1": "Howick" }, "geometry": { "type": "Point", "coordinates": [ 30.211111, -29.552778 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAHI", "NAME1": "Halfweg" }, "geometry": { "type": "Point", "coordinates": [ 20.139167, -30.013333 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAHJ", "NAME1": "Harding" }, "geometry": { "type": "Point", "coordinates": [ 29.883333, -30.566667 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAHR", "NAME1": "Harrismith" }, "geometry": { "type": "Point", "coordinates": [ 29.100000, -28.233333 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAHV", "NAME1": "Gariep Dam" }, "geometry": { "type": "Point", "coordinates": [ 25.529914, -30.562192 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAKD", "NAME1": "Klerksdorp \/ P.C. Pelser" }, "geometry": { "type": "Point", "coordinates": [ 26.716667, -26.866667 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAKR", "NAME1": "Krugersdorp" }, "geometry": { "type": "Point", "coordinates": [ 27.725678, -26.081647 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAKS", "NAME1": "Kroonstad" }, "geometry": { "type": "Point", "coordinates": [ 27.316667, -27.666667 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAKT", "NAME1": "Boschkop (Kitty Hawk Aero Estate)" }, "geometry": { "type": "Point", "coordinates": [ 28.446944, -25.861667 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAKU", "NAME1": "Kuruman" }, "geometry": { "type": "Point", "coordinates": [ 23.411894, -27.459399 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAKZ", "NAME1": "Kleinsee" }, "geometry": { "type": "Point", "coordinates": [ 17.093078, -29.682969 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FALI", "NAME1": "Lichtenburg" }, "geometry": { "type": "Point", "coordinates": [ 26.183333, -26.166667 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FALL", "NAME1": "Lydenburg" }, "geometry": { "type": "Point", "coordinates": [ 30.425556, -25.079167 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FALO", "NAME1": "Louis Trichardt" }, "geometry": { "type": "Point", "coordinates": [ 29.864802, -23.062250 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAMB", "NAME1": "Middelburg" }, "geometry": { "type": "Point", "coordinates": [ 29.440550, -25.685669 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAMC", "NAME1": "Middelburg (Cape)" }, "geometry": { "type": "Point", "coordinates": [ 25.029444, -31.547222 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAMD", "NAME1": "Malamala" }, "geometry": { "type": "Point", "coordinates": [ 31.544714, -24.817583 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAMI", "NAME1": "Marble Hall" }, "geometry": { "type": "Point", "coordinates": [ 29.283333, -24.991667 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAMO", "NAME1": "Mosselbay" }, "geometry": { "type": "Point", "coordinates": [ 22.061389, -34.156944 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAMS", "NAME1": "Morningside Farm" }, "geometry": { "type": "Point", "coordinates": [ 26.911389, -25.697222 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAMU", "NAME1": "Mkuzi" }, "geometry": { "type": "Point", "coordinates": [ 32.050000, -27.633333 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FANS", "NAME1": "Nelspruit" }, "geometry": { "type": "Point", "coordinates": [ 30.911817, -25.502225 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAOI", "NAME1": "Orient" }, "geometry": { "type": "Point", "coordinates": [ 27.594167, -26.039722 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAPI", "NAME1": "Pietersburg (Civil)" }, "geometry": { "type": "Point", "coordinates": [ 29.484361, -23.926056 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAPK", "NAME1": "Prieska" }, "geometry": { "type": "Point", "coordinates": [ 22.770603, -29.683706 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAPT", "NAME1": "Postmasburg" }, "geometry": { "type": "Point", "coordinates": [ 23.083333, -28.333333 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAPX", "NAME1": "Paradise Beach" }, "geometry": { "type": "Point", "coordinates": [ 24.882778, -34.102778 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAPY", "NAME1": "Parys" }, "geometry": { "type": "Point", "coordinates": [ 27.505308, -26.887206 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAPZ", "NAME1": "Progress" }, "geometry": { "type": "Point", "coordinates": [ 25.372222, -33.925261 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAQT", "NAME1": "Queenstown" }, "geometry": { "type": "Point", "coordinates": [ 26.883333, -31.916667 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FARA", "NAME1": "Petit" }, "geometry": { "type": "Point", "coordinates": [ 28.390389, -26.085000 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FARG", "NAME1": "Rustenburg" }, "geometry": { "type": "Point", "coordinates": [ 27.271111, -25.644444 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FARI", "NAME1": "Reivilo" }, "geometry": { "type": "Point", "coordinates": [ 24.166667, -27.554167 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FARS", "NAME1": "Robertson" }, "geometry": { "type": "Point", "coordinates": [ 19.910000, -33.810833 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FASB", "NAME1": "Springbok" }, "geometry": { "type": "Point", "coordinates": [ 17.938889, -29.689444 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FASD", "NAME1": "Saldanha - Vredenburg" }, "geometry": { "type": "Point", "coordinates": [ 17.970000, -32.963333 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FASE", "NAME1": "SABI-SABI" }, "geometry": { "type": "Point", "coordinates": [ 31.444600, -24.941514 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FASG", "NAME1": "Schweizer Reneke" }, "geometry": { "type": "Point", "coordinates": [ 25.286585, -27.163934 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FASH", "NAME1": "Stellenbosch" }, "geometry": { "type": "Point", "coordinates": [ 18.822778, -33.980556 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FASI", "NAME1": "Springs" }, "geometry": { "type": "Point", "coordinates": [ 28.400000, -26.250000 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FASW", "NAME1": "Slurry\n\nNote:\n\nC3358\/20 NOTAMN\nQ) FAJA\/QFALC\/IV\/NBO\/A\/000\/999\/2549S02553E005\nA) FASW B) 2011131348 C) PERM\nE) AD CLSD." }, "geometry": { "type": "Point", "coordinates": [ 25.883333, -25.816667 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FASX", "NAME1": "Swellendam" }, "geometry": { "type": "Point", "coordinates": [ 20.483333, -34.050000 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FATA", "NAME1": "Tedderfield Air Park" }, "geometry": { "type": "Point", "coordinates": [ 27.969167, -26.351667 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FATG", "NAME1": "Thaba Tholo Game Farm" }, "geometry": { "type": "Point", "coordinates": [ 27.229444, -24.281111 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FATP", "NAME1": "New Tempe" }, "geometry": { "type": "Point", "coordinates": [ 26.158006, -29.032714 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAUH", "NAME1": "Uitenhage" }, "geometry": { "type": "Point", "coordinates": [ 25.383333, -33.783333 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAVR", "NAME1": "Vredendal" }, "geometry": { "type": "Point", "coordinates": [ 18.544072, -31.641481 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAVW", "NAME1": "Victory West" }, "geometry": { "type": "Point", "coordinates": [ 23.150000, -31.400000 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAWA", "NAME1": "Warmbaths" }, "geometry": { "type": "Point", "coordinates": [ 28.304444, -24.908056 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAWC", "NAME1": "Worcester" }, "geometry": { "type": "Point", "coordinates": [ 19.416667, -33.666667 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAWL", "NAME1": "Williston" }, "geometry": { "type": "Point", "coordinates": [ 20.933333, -31.383333 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAWM", "NAME1": "Welkom" }, "geometry": { "type": "Point", "coordinates": [ 26.669556, -27.998008 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAAB", "NAME1": "Alexander Bay" }, "geometry": { "type": "Point", "coordinates": [ 16.534336, -28.573317 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FABM", "NAME1": "Bethlehem" }, "geometry": { "type": "Point", "coordinates": [ 28.336111, -28.248611 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FABW", "NAME1": "Karoo Gateway" }, "geometry": { "type": "Point", "coordinates": [ 22.666667, -32.300000 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FACF", "NAME1": "St Francis Field" }, "geometry": { "type": "Point", "coordinates": [ 24.831667, -34.187778 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAFO", "NAME1": "Fort Beaufort" }, "geometry": { "type": "Point", "coordinates": [ 26.577385, -32.790782 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAGC", "NAME1": "Grand Central" }, "geometry": { "type": "Point", "coordinates": [ 28.140547, -25.987067 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAGY", "NAME1": "Greytown" }, "geometry": { "type": "Point", "coordinates": [ 30.587256, -29.121519 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAHG", "NAME1": "Heidelberg" }, "geometry": { "type": "Point", "coordinates": [ 28.391011, -26.507761 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAHL", "NAME1": "Hluhluwe" }, "geometry": { "type": "Point", "coordinates": [ 32.275000, -28.013889 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAKG", "NAME1": "KWANDWE" }, "geometry": { "type": "Point", "coordinates": [ 26.581389, -33.133333 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FALY", "NAME1": "Ladysmith" }, "geometry": { "type": "Point", "coordinates": [ 29.752739, -28.579914 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAMG", "NAME1": "Margate" }, "geometry": { "type": "Point", "coordinates": [ 30.343028, -30.857367 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAMJ", "NAME1": "Majuba Power Station" }, "geometry": { "type": "Point", "coordinates": [ 29.785000, -27.083056 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAMN", "NAME1": "Malelane" }, "geometry": { "type": "Point", "coordinates": [ 31.565556, -25.473333 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FANC", "NAME1": "Newcastle" }, "geometry": { "type": "Point", "coordinates": [ 29.976389, -27.772778 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAOH", "NAME1": "Oudtshoorn" }, "geometry": { "type": "Point", "coordinates": [ 22.183333, -33.600000 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAPA", "NAME1": "Port Alfred" }, "geometry": { "type": "Point", "coordinates": [ 26.877967, -33.560383 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAPF", "NAME1": "Piet Retief" }, "geometry": { "type": "Point", "coordinates": [ 30.843889, -27.002222 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAPG", "NAME1": "Plettenberg Bay" }, "geometry": { "type": "Point", "coordinates": [ 23.328617, -34.088158 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAPH", "NAME1": "Phalaborwa" }, "geometry": { "type": "Point", "coordinates": [ 31.155094, -23.936078 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAPL", "NAME1": "Pongola" }, "geometry": { "type": "Point", "coordinates": [ 31.605525, -27.361614 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAPS", "NAME1": "Potchefstroom" }, "geometry": { "type": "Point", "coordinates": [ 27.084108, -26.668292 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FARB", "NAME1": "Richardsbay" }, "geometry": { "type": "Point", "coordinates": [ 32.093383, -28.740181 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FASC", "NAME1": "Secunda" }, "geometry": { "type": "Point", "coordinates": [ 29.172222, -26.520556 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FASS", "NAME1": "Sishen" }, "geometry": { "type": "Point", "coordinates": [ 23.000000, -27.650000 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FASZ", "NAME1": "Skukuza" }, "geometry": { "type": "Point", "coordinates": [ 31.588825, -24.961322 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FATF", "NAME1": "Tommy's Field" }, "geometry": { "type": "Point", "coordinates": [ 23.000000, -28.266667 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FATT", "NAME1": "Tutuka Power Station" }, "geometry": { "type": "Point", "coordinates": [ 29.338400, -26.778556 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FATW", "NAME1": "Tswalu Game Reserve" }, "geometry": { "type": "Point", "coordinates": [ 22.480833, -27.202806 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FATZ", "NAME1": "Tzaneen" }, "geometry": { "type": "Point", "coordinates": [ 30.316667, -23.830000 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAUL", "NAME1": "Ulundi" }, "geometry": { "type": "Point", "coordinates": [ 31.417056, -28.319472 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAVM", "NAME1": "Venetia Mine" }, "geometry": { "type": "Point", "coordinates": [ 29.335017, -22.448981 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAVV", "NAME1": "Vereeniging" }, "geometry": { "type": "Point", "coordinates": [ 27.962500, -26.575000 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "FAWI", "NAME1": "Witbank" }, "geometry": { "type": "Point", "coordinates": [ 29.192625, -25.833778 ] } }
+
+]
+}

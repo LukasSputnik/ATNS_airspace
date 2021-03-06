@@ -1,0 +1,99 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "NAME": "Bethlehem NDB\n342.5 kHz" }, "geometry": { "type": "Point", "coordinates": [ 28.333622, -28.249781 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Cape Town NDB\n462.5kHz" }, "geometry": { "type": "Point", "coordinates": [ 18.573292, -33.876125 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Ellisras NDB\n345kHz" }, "geometry": { "type": "Point", "coordinates": [ 27.623333, -23.748611 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Grand Central NDB\n372.5kHz" }, "geometry": { "type": "Point", "coordinates": [ 28.140053, -25.992608 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Greytown NDB\n252.5kHz" }, "geometry": { "type": "Point", "coordinates": [ 30.603433, -29.105389 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Hoedspruit NDB\n265kHz" }, "geometry": { "type": "Point", "coordinates": [ 31.034511, -24.338536 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Hotazel NDB\n257.5kHz" }, "geometry": { "type": "Point", "coordinates": [ 22.950000, -27.225000 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Klerksdorp NDB\n280kHz" }, "geometry": { "type": "Point", "coordinates": [ 26.710639, -26.845139 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Lanseria NDB\n270kHz" }, "geometry": { "type": "Point", "coordinates": [ 27.839536, -26.010347 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Louis Trichardt NDB\n457.5kHz" }, "geometry": { "type": "Point", "coordinates": [ 29.839167, -23.065556 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Langebaanweg NDB\n345kHz" }, "geometry": { "type": "Point", "coordinates": [ 18.148997, -32.980872 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Majuba Power Station NDB\n512.5kHz" }, "geometry": { "type": "Point", "coordinates": [ 29.744083, -27.059839 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "GEORGE DICK MONTSHIOA AIRPORT NDB\n290.0kHz" }, "geometry": { "type": "Point", "coordinates": [ 25.510806, -25.877081 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Newcastle NDB\n415kHz" }, "geometry": { "type": "Point", "coordinates": [ 29.976233, -27.767889 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Overberg NDB\n427.5kHz" }, "geometry": { "type": "Point", "coordinates": [ 20.284844, -34.595622 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Pietermaritzburg NDB\n280kHz" }, "geometry": { "type": "Point", "coordinates": [ 30.395003, -29.610217 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Pietermaritzburg NDB\n442.5kHz" }, "geometry": { "type": "Point", "coordinates": [ 30.448728, -29.559611 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Kruger Mpumalanga NDB\n405.00kHz" }, "geometry": { "type": "Point", "coordinates": [ 31.108917, -25.383556 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Piet Retief NDB\n525.0kHz" }, "geometry": { "type": "Point", "coordinates": [ 30.770122, -26.939883 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Pietermaritzburg NDB\n407kHz" }, "geometry": { "type": "Point", "coordinates": [ 30.409767, -29.661278 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Phalaborwa NDB\n272kHz" }, "geometry": { "type": "Point", "coordinates": [ 31.153947, -23.917378 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Plettenberg Bay NDB\n277.5kHz" }, "geometry": { "type": "Point", "coordinates": [ 23.325969, -34.090497 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Pietermaritzburg NDB\n257kHz" }, "geometry": { "type": "Point", "coordinates": [ 30.449461, -29.705633 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Rand NDB\n307.5kHz" }, "geometry": { "type": "Point", "coordinates": [ 28.263850, -26.423978 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Rand NDB\n307.5kHz" }, "geometry": { "type": "Point", "coordinates": [ 28.089844, -26.314114 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Rustenburg NDB\n452.5kHz" }, "geometry": { "type": "Point", "coordinates": [ 27.283333, -25.650000 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Lusikisiki NDB\n200kHz" }, "geometry": { "type": "Point", "coordinates": [ 29.516667, -31.283333 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Ulundi NDB\n457.5kHz" }, "geometry": { "type": "Point", "coordinates": [ 31.481611, -28.235333 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Skukuza NDB\n233kHz" }, "geometry": { "type": "Point", "coordinates": [ 31.598611, -24.980278 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Thabazimbi NDB\n397.5kHz" }, "geometry": { "type": "Point", "coordinates": [ 27.416667, -24.600000 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Thohoyandou NDB\n325kHz" }, "geometry": { "type": "Point", "coordinates": [ 30.483333, -22.966667 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Thohoyandou NDB\n285kHz" }, "geometry": { "type": "Point", "coordinates": [ 30.314444, -23.075000 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Tshikondeni NDB\n252.5kHz" }, "geometry": { "type": "Point", "coordinates": [ 30.949167, -22.509167 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Tutuka NDB\n352.5kHz" }, "geometry": { "type": "Point", "coordinates": [ 29.358056, -26.721111 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Tzaneen NDB\n212.5kHz" }, "geometry": { "type": "Point", "coordinates": [ 30.360842, -23.802289 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Ulundi NDB\n267.5kHz" }, "geometry": { "type": "Point", "coordinates": [ 31.430694, -28.304444 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Ulundi NDB\n422kHz" }, "geometry": { "type": "Point", "coordinates": [ 31.394472, -28.348861 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Vryheid NDB\n230kHz" }, "geometry": { "type": "Point", "coordinates": [ 30.712778, -27.786389 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Vryheid NDB\n230kHz" }, "geometry": { "type": "Point", "coordinates": [ 30.786944, -27.786111 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Vaalhoek NDB\n390kHz" }, "geometry": { "type": "Point", "coordinates": [ 30.783333, -24.783333 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Venetia Mine NDB\n417.5kHz" }, "geometry": { "type": "Point", "coordinates": [ 29.304342, -22.457017 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Vereeniging NDB\n460kHz" }, "geometry": { "type": "Point", "coordinates": [ 27.958047, -26.567325 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Wonderboom NDB\n257.5kHz" }, "geometry": { "type": "Point", "coordinates": [ 28.298769, -25.656617 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "WORCESTER NDB\n335kHz" }, "geometry": { "type": "Point", "coordinates": [ 19.416667, -33.663333 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Wonderboom NDB\n230kHz" }, "geometry": { "type": "Point", "coordinates": [ 28.242292, -25.654286 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Unknown Point Feature" }, "geometry": { "type": "Point", "coordinates": [ 31.333056, -26.510556 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Unknown Point Feature" }, "geometry": { "type": "Point", "coordinates": [ 27.503333, -29.303333 ] } }
+
+]
+}

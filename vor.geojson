@@ -1,111 +1,37 @@
 {
 "type": "FeatureCollection",
 "features": [
-{ "type": "Feature", "properties": { "NAME": "AGV" }, "geometry": { "type": "Point", "coordinates": [ 18.562492, -29.481019 ] } }
+{ "type": "Feature", "properties": { "NAME": "Maseru VOR" }, "geometry": { "type": "Point", "coordinates": [ 27.540556, -29.500278 ] } }
 ,
-{ "type": "Feature", "properties": { "NAME": "ABV" }, "geometry": { "type": "Point", "coordinates": [ 16.533833, -28.570653 ] } }
+{ "type": "Feature", "properties": { "NAME": "Maputo VOR" }, "geometry": { "type": "Point", "coordinates": [ 32.608333, -25.869444 ] } }
 ,
-{ "type": "Feature", "properties": { "NAME": "BOV" }, "geometry": { "type": "Point", "coordinates": [ 27.269444, -32.906311 ] } }
+{ "type": "Feature", "properties": { "NAME": "Witbank VOR 113.3MHz" }, "geometry": { "type": "Point", "coordinates": [ 29.194758, -25.829525 ] } }
 ,
-{ "type": "Feature", "properties": { "NAME": "BLV" }, "geometry": { "type": "Point", "coordinates": [ 26.300642, -29.100661 ] } }
+{ "type": "Feature", "properties": { "NAME": "Petrusville VOR 112.7MHz" }, "geometry": { "type": "Point", "coordinates": [ 24.695017, -30.366225 ] } }
 ,
-{ "type": "Feature", "properties": { "NAME": "MEV" }, "geometry": { "type": "Point", "coordinates": [ 28.561336, -25.790931 ] } }
+{ "type": "Feature", "properties": { "NAME": "Warden VOR 112.8MHz" }, "geometry": { "type": "Point", "coordinates": [ 29.069472, -27.774794 ] } }
 ,
-{ "type": "Feature", "properties": { "NAME": "CDV" }, "geometry": { "type": "Point", "coordinates": [ 19.477886, -34.112967 ] } }
+{ "type": "Feature", "properties": { "NAME": "Standerton VOR 116MHz" }, "geometry": { "type": "Point", "coordinates": [ 28.867461, -26.696719 ] } }
 ,
-{ "type": "Feature", "properties": { "NAME": "CTV" }, "geometry": { "type": "Point", "coordinates": [ 18.605053, -33.969672 ] } }
+{ "type": "Feature", "properties": { "NAME": "Somerveld VOR 113.0MHz" }, "geometry": { "type": "Point", "coordinates": [ 18.478389, -33.249347 ] } }
 ,
-{ "type": "Feature", "properties": { "NAME": "CSV" }, "geometry": { "type": "Point", "coordinates": [ 19.438117, -33.252297 ] } }
+{ "type": "Feature", "properties": { "NAME": "Sutherland VOR 113.3MHz" }, "geometry": { "type": "Point", "coordinates": [ 20.622500, -32.450000 ] } }
 ,
-{ "type": "Feature", "properties": { "NAME": "CZV" }, "geometry": { "type": "Point", "coordinates": [ 28.550822, -25.689811 ] } }
+{ "type": "Feature", "properties": { "NAME": "Port St Johns VOR 115.9MHz" }, "geometry": { "type": "Point", "coordinates": [ 29.519850, -31.608878 ] } }
 ,
-{ "type": "Feature", "properties": { "NAME": "DPV" }, "geometry": { "type": "Point", "coordinates": [ 28.220075, -25.655917 ] } }
+{ "type": "Feature", "properties": { "NAME": "Phalaborwa VOR 115.3MHz" }, "geometry": { "type": "Point", "coordinates": [ 31.151969, -23.900758 ] } }
 ,
-{ "type": "Feature", "properties": { "NAME": "ELV" }, "geometry": { "type": "Point", "coordinates": [ 27.823156, -33.036989 ] } }
+{ "type": "Feature", "properties": { "NAME": "Nieuwoudtville VOR 116.1MHz" }, "geometry": { "type": "Point", "coordinates": [ 19.071111, -31.380000 ] } }
 ,
-{ "type": "Feature", "properties": { "NAME": "ERV" }, "geometry": { "type": "Point", "coordinates": [ 27.964361, -23.625219 ] } }
+{ "type": "Feature", "properties": { "NAME": "Hofmeyer VOR 113.4MHz" }, "geometry": { "type": "Point", "coordinates": [ 25.844000, -31.605883 ] } }
 ,
-{ "type": "Feature", "properties": { "NAME": "GRV" }, "geometry": { "type": "Point", "coordinates": [ 22.376006, -34.007406 ] } }
+{ "type": "Feature", "properties": { "NAME": "Heidelberg VOR 116.7MHz" }, "geometry": { "type": "Point", "coordinates": [ 28.283164, -26.696806 ] } }
 ,
-{ "type": "Feature", "properties": { "NAME": "GAV" }, "geometry": { "type": "Point", "coordinates": [ 27.676436, -26.514897 ] } }
+{ "type": "Feature", "properties": { "NAME": "Grasmere VOR 115.5MHz" }, "geometry": { "type": "Point", "coordinates": [ 27.676436, -26.514897 ] } }
 ,
-{ "type": "Feature", "properties": { "NAME": "GWV" }, "geometry": { "type": "Point", "coordinates": [ 29.410278, -22.245556 ] } }
+{ "type": "Feature", "properties": { "NAME": "Greefswald VOR 117.9MHz" }, "geometry": { "type": "Point", "coordinates": [ 29.410278, -22.245556 ] } }
 ,
-{ "type": "Feature", "properties": { "NAME": "GYV" }, "geometry": { "type": "Point", "coordinates": [ 30.585569, -29.124719 ] } }
-,
-{ "type": "Feature", "properties": { "NAME": "HGV" }, "geometry": { "type": "Point", "coordinates": [ 28.283164, -26.696806 ] } }
-,
-{ "type": "Feature", "properties": { "NAME": "HSV" }, "geometry": { "type": "Point", "coordinates": [ 31.047608, -24.347203 ] } }
-,
-{ "type": "Feature", "properties": { "NAME": "HMV" }, "geometry": { "type": "Point", "coordinates": [ 25.844000, -31.605883 ] } }
-,
-{ "type": "Feature", "properties": { "NAME": "KYV" }, "geometry": { "type": "Point", "coordinates": [ 24.760367, -28.799947 ] } }
-,
-{ "type": "Feature", "properties": { "NAME": "TGV" }, "geometry": { "type": "Point", "coordinates": [ 31.124731, -29.611167 ] } }
-,
-{ "type": "Feature", "properties": { "NAME": "LYV" }, "geometry": { "type": "Point", "coordinates": [ 29.694533, -28.604503 ] } }
-,
-{ "type": "Feature", "properties": { "NAME": "LWV" }, "geometry": { "type": "Point", "coordinates": [ 18.163872, -32.982856 ] } }
-,
-{ "type": "Feature", "properties": { "NAME": "LIV" }, "geometry": { "type": "Point", "coordinates": [ 27.913572, -25.948928 ] } }
-,
-{ "type": "Feature", "properties": { "NAME": "LTV" }, "geometry": { "type": "Point", "coordinates": [ 29.686439, -23.158531 ] } }
-,
-{ "type": "Feature", "properties": { "NAME": "MMV" }, "geometry": { "type": "Point", "coordinates": [ 25.535056, -25.825897 ] } }
-,
-{ "type": "Feature", "properties": { "NAME": "MHV" }, "geometry": { "type": "Point", "coordinates": [ 28.673550, -31.550358 ] } }
-,
-{ "type": "Feature", "properties": { "NAME": "NVV" }, "geometry": { "type": "Point", "coordinates": [ 19.071111, -31.380000 ] } }
-,
-{ "type": "Feature", "properties": { "NAME": "JSV" }, "geometry": { "type": "Point", "coordinates": [ 28.231028, -26.157119 ] } }
-,
-{ "type": "Feature", "properties": { "NAME": "OBV" }, "geometry": { "type": "Point", "coordinates": [ 20.247139, -34.556119 ] } }
-,
-{ "type": "Feature", "properties": { "NAME": "PVV" }, "geometry": { "type": "Point", "coordinates": [ 24.695017, -30.366225 ] } }
-,
-{ "type": "Feature", "properties": { "NAME": "PKV" }, "geometry": { "type": "Point", "coordinates": [ 31.111125, -25.381025 ] } }
-,
-{ "type": "Feature", "properties": { "NAME": "PHV" }, "geometry": { "type": "Point", "coordinates": [ 31.151969, -23.900758 ] } }
-,
-{ "type": "Feature", "properties": { "NAME": "PMV" }, "geometry": { "type": "Point", "coordinates": [ 30.400356, -29.647814 ] } }
-,
-{ "type": "Feature", "properties": { "NAME": "PPV" }, "geometry": { "type": "Point", "coordinates": [ 29.460567, -23.839819 ] } }
-,
-{ "type": "Feature", "properties": { "NAME": "PNV" }, "geometry": { "type": "Point", "coordinates": [ 27.122706, -25.395842 ] } }
-,
-{ "type": "Feature", "properties": { "NAME": "PEV" }, "geometry": { "type": "Point", "coordinates": [ 25.605764, -33.992503 ] } }
-,
-{ "type": "Feature", "properties": { "NAME": "PJV" }, "geometry": { "type": "Point", "coordinates": [ 29.519850, -31.608878 ] } }
-,
-{ "type": "Feature", "properties": { "NAME": "RAV" }, "geometry": { "type": "Point", "coordinates": [ 28.154517, -26.245386 ] } }
-,
-{ "type": "Feature", "properties": { "NAME": "RBV" }, "geometry": { "type": "Point", "coordinates": [ 32.093542, -28.740683 ] } }
-,
-{ "type": "Feature", "properties": { "NAME": "RIV" }, "geometry": { "type": "Point", "coordinates": [ 18.364472, -33.799569 ] } }
-,
-{ "type": "Feature", "properties": { "NAME": "SSV" }, "geometry": { "type": "Point", "coordinates": [ 23.003053, -27.652175 ] } }
-,
-{ "type": "Feature", "properties": { "NAME": "SVV" }, "geometry": { "type": "Point", "coordinates": [ 18.478389, -33.249347 ] } }
-,
-{ "type": "Feature", "properties": { "NAME": "STV" }, "geometry": { "type": "Point", "coordinates": [ 28.867461, -26.696719 ] } }
-,
-{ "type": "Feature", "properties": { "NAME": "SLV" }, "geometry": { "type": "Point", "coordinates": [ 20.622500, -32.450000 ] } }
-,
-{ "type": "Feature", "properties": { "NAME": "UPV" }, "geometry": { "type": "Point", "coordinates": [ 21.260411, -28.401753 ] } }
-,
-{ "type": "Feature", "properties": { "NAME": "VWV" }, "geometry": { "type": "Point", "coordinates": [ 23.108889, -31.396944 ] } }
-,
-{ "type": "Feature", "properties": { "NAME": "WRV" }, "geometry": { "type": "Point", "coordinates": [ 29.069472, -27.774794 ] } }
-,
-{ "type": "Feature", "properties": { "NAME": "WKV" }, "geometry": { "type": "Point", "coordinates": [ 28.220364, -25.833344 ] } }
-,
-{ "type": "Feature", "properties": { "NAME": "WMV" }, "geometry": { "type": "Point", "coordinates": [ 26.661147, -28.001594 ] } }
-,
-{ "type": "Feature", "properties": { "NAME": "WIV" }, "geometry": { "type": "Point", "coordinates": [ 29.194758, -25.829525 ] } }
-,
-{ "type": "Feature", "properties": { "NAME": "MZV" }, "geometry": { "type": "Point", "coordinates": [ 27.540556, -29.500278 ] } }
-,
-{ "type": "Feature", "properties": { "NAME": "VMA" }, "geometry": { "type": "Point", "coordinates": [ 32.608333, -25.869444 ] } }
+{ "type": "Feature", "properties": { "NAME": "Caledon VOR 114.9MHz" }, "geometry": { "type": "Point", "coordinates": [ 19.477886, -34.112967 ] } }
 
 ]
 }

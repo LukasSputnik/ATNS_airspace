@@ -318,6 +318,10 @@
 { "type": "Feature", "properties": { "NAME": "FAZR", "NAME1": "Zeerust" }, "geometry": { "type": "Point", "coordinates": [ 26.042278, -25.598972 ] } }
 ,
 { "type": "Feature", "properties": { "NAME": "FAZU", "NAME1": "Zuney" }, "geometry": { "type": "Point", "coordinates": [ 26.444400, -32.764400 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": " ", "NAME1": "Morningstar" }, "geometry": { "type": "Point", "coordinates": [ 18.5485251, -33.7623256 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": " ", "NAME1": "Altona/Klipheuwel" }, "geometry": { "type": "Point", "coordinates": [ 18.6461409, -33.7077349 ] } }
 
 ]
 }
